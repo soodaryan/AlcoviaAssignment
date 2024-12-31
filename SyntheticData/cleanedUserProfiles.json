@@ -1,0 +1,1148 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "strengths": [
+                "Creativity",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "AI",
+                "Machine Learning"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "AI",
+                "Mathematics"
+            ],
+            "preferred_topics_defined": [
+                "Artificial Intelligence and Machine Learning",
+                "Mathematics"
+            ]
+        },
+        {
+            "user_id": 2,
+            "strengths": [
+                "Leadership",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Focus"
+            ],
+            "interests": [
+                "Robotics",
+                "Sports"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Robotics",
+                "Physics"
+            ],
+            "preferred_topics_defined": [
+                "Robotics and Machine Learning",
+                "Physics"
+            ]
+        },
+        {
+            "user_id": 3,
+            "strengths": [
+                "Communication",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Creative Arts",
+                "Photography"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Art",
+                "Creative Writing"
+            ],
+            "preferred_topics_defined": [
+                "Arts and Creativity"
+            ]
+        },
+        {
+            "user_id": 4,
+            "strengths": [
+                "Analytical Thinking",
+                "Technical Expertise"
+            ],
+            "weaknesses": [
+                "Stress Handling"
+            ],
+            "interests": [
+                "Cybersecurity",
+                "Blockchain"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Cybersecurity",
+                "Blockchain"
+            ],
+            "preferred_topics_defined": [
+                "Technology Innovations",
+                "Cybersecurity"
+            ]
+        },
+        {
+            "user_id": 5,
+            "strengths": [
+                "Innovation",
+                "Active Listening"
+            ],
+            "weaknesses": [
+                "Procrastination"
+            ],
+            "interests": [
+                "Entrepreneurship",
+                "Business"
+            ],
+            "learning_style": "Collaborative",
+            "preferred_topics": [
+                "Business",
+                "Economics"
+            ],
+            "preferred_topics_defined": [
+                "Business and Management",
+                "Economics"
+            ]
+        },
+        {
+            "user_id": 6,
+            "strengths": [
+                "Empathy",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Decision Making"
+            ],
+            "interests": [
+                "Psychology",
+                "Social Work"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Psychology",
+                "Sociology"
+            ],
+            "preferred_topics_defined": [
+                "Cultural Studies",
+                "Psychology"
+            ]
+        },
+        {
+            "user_id": 7,
+            "strengths": [
+                "Critical Thinking",
+                "Analytical Skills"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "Data Science",
+                "Statistics"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Statistics",
+                "Data Analysis"
+            ],
+            "preferred_topics_defined": [
+                "Data Analytics",
+                "Data Science"
+            ]
+        },
+        {
+            "user_id": 8,
+            "strengths": [
+                "Leadership",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Focus"
+            ],
+            "interests": [
+                "Management",
+                "Economics"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Leadership",
+                "Business Strategies"
+            ],
+            "preferred_topics_defined": [
+                "Business and Management",
+                "Leadership Skills"
+            ]
+        },
+        {
+            "user_id": 9,
+            "strengths": [
+                "Technical Expertise",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Multitasking"
+            ],
+            "interests": [
+                "Software Development",
+                "Cybersecurity"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Programming",
+                "Cybersecurity"
+            ],
+            "preferred_topics_defined": [
+                "Programming",
+                "Cybersecurity"
+            ]
+        },
+        {
+            "user_id": 10,
+            "strengths": [
+                "Communication",
+                "Empathy"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Writing",
+                "Content Creation"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Creative Writing",
+                "Storytelling"
+            ],
+            "preferred_topics_defined": [
+                "Arts and Creativity"
+            ]
+        },
+        {
+            "user_id": 11,
+            "strengths": [
+                "Creativity",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Decision Making"
+            ],
+            "interests": [
+                "Music",
+                "Theater"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Performing Arts",
+                "Music Theory"
+            ],
+            "preferred_topics_defined": [
+                "Music and Audio",
+                "Arts and Creativity"
+            ]
+        },
+        {
+            "user_id": 12,
+            "strengths": [
+                "Analytical Thinking",
+                "Detail Orientation"
+            ],
+            "weaknesses": [
+                "Stress Handling"
+            ],
+            "interests": [
+                "Finance",
+                "Investment"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Economics",
+                "Financial Analysis"
+            ],
+            "preferred_topics_defined": [
+                "Finance and Investment",
+                "Economics"
+            ]
+        },
+        {
+            "user_id": 13,
+            "strengths": [
+                "Empathy",
+                "Active Listening"
+            ],
+            "weaknesses": [
+                "Assertiveness"
+            ],
+            "interests": [
+                "Counseling",
+                "Psychology"
+            ],
+            "learning_style": "Collaborative",
+            "preferred_topics": [
+                "Psychology",
+                "Behavioral Science"
+            ],
+            "preferred_topics_defined": [
+                "Psychology"
+            ]
+        },
+        {
+            "user_id": 14,
+            "strengths": [
+                "Problem Solving",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Organization"
+            ],
+            "interests": [
+                "Engineering",
+                "Physics"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Mechanical Engineering",
+                "Physics"
+            ],
+            "preferred_topics_defined": [
+                "Engineering",
+                "Physics"
+            ]
+        },
+        {
+            "user_id": 15,
+            "strengths": [
+                "Leadership",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Focus"
+            ],
+            "interests": [
+                "Sports",
+                "Fitness"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Sports Science",
+                "Nutrition"
+            ],
+            "preferred_topics_defined": [
+                "Health and Wellness",
+                "Sports Science"
+            ]
+        },
+        {
+            "user_id": 16,
+            "strengths": [
+                "Critical Thinking",
+                "Technical Expertise"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Blockchain",
+                "AI"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Blockchain",
+                "Artificial Intelligence"
+            ],
+            "preferred_topics_defined": [
+                "Technology Innovations",
+                "Artificial Intelligence and Machine Learning"
+            ]
+        },
+        {
+            "user_id": 17,
+            "strengths": [
+                "Innovation",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Procrastination"
+            ],
+            "interests": [
+                "Entrepreneurship",
+                "Product Design"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Business",
+                "Product Development"
+            ],
+            "preferred_topics_defined": [
+                "Technology Innovations",
+                "Business and Management"
+            ]
+        },
+        {
+            "user_id": 18,
+            "strengths": [
+                "Adaptability",
+                "Communication"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "Human Resources",
+                "Organizational Development"
+            ],
+            "learning_style": "Collaborative",
+            "preferred_topics": [
+                "HR Management",
+                "Leadership"
+            ],
+            "preferred_topics_defined": [
+                "Business and Management",
+                "Leadership Skills"
+            ]
+        },
+        {
+            "user_id": 19,
+            "strengths": [
+                "Analytical Thinking",
+                "Detail Orientation"
+            ],
+            "weaknesses": [
+                "Stress Handling"
+            ],
+            "interests": [
+                "Statistics",
+                "Research"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Data Analysis",
+                "Research Methods"
+            ],
+            "preferred_topics_defined": [
+                "Data Analytics"
+            ]
+        },
+        {
+            "user_id": 20,
+            "strengths": [
+                "Empathy",
+                "Communication"
+            ],
+            "weaknesses": [
+                "Decision Making"
+            ],
+            "interests": [
+                "Psychology",
+                "Writing"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Creative Writing",
+                "Psychology"
+            ],
+            "preferred_topics_defined": [
+                "Arts and Creativity",
+                "Psychology"
+            ]
+        },
+        {
+            "user_id": 21,
+            "strengths": [
+                "Creativity",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "Game Development",
+                "AI"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Game Design",
+                "Artificial Intelligence"
+            ],
+            "preferred_topics_defined": [
+                "Arts and Creativity",
+                "Artificial Intelligence and Machine Learning"
+            ]
+        },
+        {
+            "user_id": 22,
+            "strengths": [
+                "Leadership",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Stress Management"
+            ],
+            "interests": [
+                "Finance",
+                "Economics"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Financial Analysis",
+                "Leadership"
+            ],
+            "preferred_topics_defined": [
+                "Finance and Investment",
+                "Leadership Skills"
+            ]
+        },
+        {
+            "user_id": 23,
+            "strengths": [
+                "Communication",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Focus"
+            ],
+            "interests": [
+                "Journalism",
+                "Creative Writing"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Storytelling",
+                "Media Studies"
+            ],
+            "preferred_topics_defined": [
+                "Cultural Studies",
+                "Arts and Creativity"
+            ]
+        },
+        {
+            "user_id": 24,
+            "strengths": [
+                "Technical Expertise",
+                "Critical Thinking"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Cybersecurity",
+                "Programming"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Cybersecurity",
+                "Software Engineering"
+            ],
+            "preferred_topics_defined": [
+                "Programming",
+                "Cybersecurity"
+            ]
+        },
+        {
+            "user_id": 25,
+            "strengths": [
+                "Innovation",
+                "Analytical Thinking"
+            ],
+            "weaknesses": [
+                "Procrastination"
+            ],
+            "interests": [
+                "Startups",
+                "Business"
+            ],
+            "learning_style": "Collaborative",
+            "preferred_topics": [
+                "Entrepreneurship",
+                "Market Analysis"
+            ],
+            "preferred_topics_defined": [
+                "Data Science",
+                "Business and Management"
+            ]
+        },
+        {
+            "user_id": 26,
+            "strengths": [
+                "Empathy",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Assertiveness"
+            ],
+            "interests": [
+                "Art Therapy",
+                "Social Work"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Psychology",
+                "Art Therapy"
+            ],
+            "preferred_topics_defined": [
+                "Psychology"
+            ]
+        },
+        {
+            "user_id": 27,
+            "strengths": [
+                "Analytical Thinking",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Organization"
+            ],
+            "interests": [
+                "AI",
+                "Physics"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "AI",
+                "Physics"
+            ],
+            "preferred_topics_defined": [
+                "Artificial Intelligence and Machine Learning",
+                "Physics"
+            ]
+        },
+        {
+            "user_id": 28,
+            "strengths": [
+                "Leadership",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Focus"
+            ],
+            "interests": [
+                "Public Speaking",
+                "Politics"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Political Science",
+                "Leadership"
+            ],
+            "preferred_topics_defined": [
+                "Cultural Studies",
+                "Leadership Skills"
+            ]
+        },
+        {
+            "user_id": 29,
+            "strengths": [
+                "Problem Solving",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Decision Making"
+            ],
+            "interests": [
+                "Engineering",
+                "Game Design"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Game Development",
+                "Mechanical Engineering"
+            ],
+            "preferred_topics_defined": [
+                "Robotics and Machine Learning",
+                "Engineering"
+            ]
+        },
+        {
+            "user_id": 30,
+            "strengths": [
+                "Communication",
+                "Empathy"
+            ],
+            "weaknesses": [
+                "Stress Handling"
+            ],
+            "interests": [
+                "Counseling",
+                "Creative Writing"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Psychology",
+                "Storytelling"
+            ],
+            "preferred_topics_defined": [
+                "Arts and Creativity",
+                "Psychology"
+            ]
+        },
+        {
+            "user_id": 31,
+            "strengths": [
+                "Critical Thinking",
+                "Detail Orientation"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Data Science",
+                "Economics"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Data Analysis",
+                "Financial Markets"
+            ],
+            "preferred_topics_defined": [
+                "Data Analytics",
+                "Finance and Investment"
+            ]
+        },
+        {
+            "user_id": 32,
+            "strengths": [
+                "Creativity",
+                "Innovation"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "Fashion Design",
+                "Art"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Art",
+                "Design"
+            ],
+            "preferred_topics_defined": [
+                "Arts and Creativity",
+                "Design Principles"
+            ]
+        },
+        {
+            "user_id": 33,
+            "strengths": [
+                "Leadership",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Stress Handling"
+            ],
+            "interests": [
+                "Sports",
+                "Fitness"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Sports Science",
+                "Wellness"
+            ],
+            "preferred_topics_defined": [
+                "Health and Wellness",
+                "Sports Science"
+            ]
+        },
+        {
+            "user_id": 34,
+            "strengths": [
+                "Communication",
+                "Active Listening"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Podcasting",
+                "Storytelling"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Creative Writing",
+                "Public Speaking"
+            ],
+            "preferred_topics_defined": [
+                "Public Speaking",
+                "Arts and Creativity"
+            ]
+        },
+        {
+            "user_id": 35,
+            "strengths": [
+                "Technical Expertise",
+                "Analytical Thinking"
+            ],
+            "weaknesses": [
+                "Procrastination"
+            ],
+            "interests": [
+                "Robotics",
+                "AI"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Robotics",
+                "AI"
+            ],
+            "preferred_topics_defined": [
+                "Robotics and Machine Learning",
+                "Artificial Intelligence and Machine Learning"
+            ]
+        },
+        {
+            "user_id": 36,
+            "strengths": [
+                "Empathy",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Decision Making"
+            ],
+            "interests": [
+                "Psychology",
+                "Social Sciences"
+            ],
+            "learning_style": "Collaborative",
+            "preferred_topics": [
+                "Psychology",
+                "Sociology"
+            ],
+            "preferred_topics_defined": [
+                "Cultural Studies",
+                "Psychology"
+            ]
+        },
+        {
+            "user_id": 37,
+            "strengths": [
+                "Creativity",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Focus"
+            ],
+            "interests": [
+                "AI",
+                "Game Design"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "AI",
+                "Game Development"
+            ],
+            "preferred_topics_defined": [
+                "Robotics and Machine Learning",
+                "Artificial Intelligence and Machine Learning"
+            ]
+        },
+        {
+            "user_id": 38,
+            "strengths": [
+                "Leadership",
+                "Critical Thinking"
+            ],
+            "weaknesses": [
+                "Stress Management"
+            ],
+            "interests": [
+                "Economics",
+                "Finance"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Leadership",
+                "Financial Analysis"
+            ],
+            "preferred_topics_defined": [
+                "Finance and Investment",
+                "Leadership Skills"
+            ]
+        },
+        {
+            "user_id": 39,
+            "strengths": [
+                "Communication",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "Public Speaking",
+                "Journalism"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Media Studies",
+                "Storytelling"
+            ],
+            "preferred_topics_defined": [
+                "Cultural Studies",
+                "Arts and Creativity"
+            ]
+        },
+        {
+            "user_id": 40,
+            "strengths": [
+                "Analytical Thinking",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Blockchain",
+                "Cybersecurity"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Blockchain",
+                "Data Security"
+            ],
+            "preferred_topics_defined": [
+                "Technology Innovations",
+                "Data Security"
+            ]
+        },
+        {
+            "user_id": 41,
+            "strengths": [
+                "Innovation",
+                "Empathy"
+            ],
+            "weaknesses": [
+                "Procrastination"
+            ],
+            "interests": [
+                "Entrepreneurship",
+                "Psychology"
+            ],
+            "learning_style": "Collaborative",
+            "preferred_topics": [
+                "Business Strategies",
+                "Behavioral Science"
+            ],
+            "preferred_topics_defined": [
+                "Psychology",
+                "Business and Management"
+            ]
+        },
+        {
+            "user_id": 42,
+            "strengths": [
+                "Technical Expertise",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Organization"
+            ],
+            "interests": [
+                "Software Development",
+                "Data Science"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Programming",
+                "Data Analysis"
+            ],
+            "preferred_topics_defined": [
+                "Data Analytics",
+                "Programming"
+            ]
+        },
+        {
+            "user_id": 43,
+            "strengths": [
+                "Adaptability",
+                "Communication"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "Creative Arts",
+                "Theater"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Performing Arts",
+                "Creative Writing"
+            ],
+            "preferred_topics_defined": [
+                "Arts and Creativity"
+            ]
+        },
+        {
+            "user_id": 44,
+            "strengths": [
+                "Leadership",
+                "Teamwork"
+            ],
+            "weaknesses": [
+                "Stress Handling"
+            ],
+            "interests": [
+                "Management",
+                "Economics"
+            ],
+            "learning_style": "Kinesthetic",
+            "preferred_topics": [
+                "Business Strategies",
+                "Leadership"
+            ],
+            "preferred_topics_defined": [
+                "Business and Management",
+                "Leadership Skills"
+            ]
+        },
+        {
+            "user_id": 45,
+            "strengths": [
+                "Creativity",
+                "Analytical Thinking"
+            ],
+            "weaknesses": [
+                "Focus"
+            ],
+            "interests": [
+                "Game Design",
+                "AI"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Game Development",
+                "AI"
+            ],
+            "preferred_topics_defined": [
+                "Robotics and Machine Learning",
+                "Artificial Intelligence and Machine Learning"
+            ]
+        },
+        {
+            "user_id": 46,
+            "strengths": [
+                "Critical Thinking",
+                "Problem Solving"
+            ],
+            "weaknesses": [
+                "Public Speaking"
+            ],
+            "interests": [
+                "Finance",
+                "Investment"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Investment Strategies",
+                "Economics"
+            ],
+            "preferred_topics_defined": [
+                "Finance and Investment",
+                "Economics"
+            ]
+        },
+        {
+            "user_id": 47,
+            "strengths": [
+                "Empathy",
+                "Active Listening"
+            ],
+            "weaknesses": [
+                "Decision Making"
+            ],
+            "interests": [
+                "Counseling",
+                "Psychology"
+            ],
+            "learning_style": "Collaborative",
+            "preferred_topics": [
+                "Psychology",
+                "Sociology"
+            ],
+            "preferred_topics_defined": [
+                "Cultural Studies",
+                "Psychology"
+            ]
+        },
+        {
+            "user_id": 48,
+            "strengths": [
+                "Innovation",
+                "Creativity"
+            ],
+            "weaknesses": [
+                "Time Management"
+            ],
+            "interests": [
+                "Product Design",
+                "Entrepreneurship"
+            ],
+            "learning_style": "Visual",
+            "preferred_topics": [
+                "Product Development",
+                "Business"
+            ],
+            "preferred_topics_defined": [
+                "Technology Innovations",
+                "Business and Management"
+            ]
+        },
+        {
+            "user_id": 49,
+            "strengths": [
+                "Communication",
+                "Adaptability"
+            ],
+            "weaknesses": [
+                "Procrastination"
+            ],
+            "interests": [
+                "Public Speaking",
+                "Media Studies"
+            ],
+            "learning_style": "Auditory",
+            "preferred_topics": [
+                "Public Speaking",
+                "Journalism"
+            ],
+            "preferred_topics_defined": [
+                "Cultural Studies",
+                "Public Speaking"
+            ]
+        },
+        {
+            "user_id": 50,
+            "strengths": [
+                "Analytical Thinking",
+                "Detail Orientation"
+            ],
+            "weaknesses": [
+                "Stress Handling"
+            ],
+            "interests": [
+                "Statistics",
+                "Research"
+            ],
+            "learning_style": "Logical/Mathematical",
+            "preferred_topics": [
+                "Statistics",
+                "Data Analysis"
+            ],
+            "preferred_topics_defined": [
+                "Data Analytics",
+                "Data Science"
+            ]
+        }
+    ]
+}

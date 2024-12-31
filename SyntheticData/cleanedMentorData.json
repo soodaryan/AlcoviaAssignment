@@ -1,0 +1,1451 @@
+{
+    "mentors": [
+        {
+            "mentor_id": 1,
+            "name": "Bruce Schneier",
+            "learning_style": "Visual",
+            "topics": [
+                "Cybersecurity",
+                "Sports Science",
+                "Finance and Investment",
+                "Arts and Creativity",
+                "Music and Audio"
+            ],
+            "time_available": "Evening",
+            "description": "Bruce Schneier is a mentor who thrives with a visual learning style. With expertise in Cybersecurity, Sports Science, Finance and Investment, Arts and Creativity, and Music and Audio, Bruce Schneier offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "AI and Robotics",
+            "email": "bruce.schneier@example.com"
+        },
+        {
+            "mentor_id": 2,
+            "name": "Simon Sinek",
+            "learning_style": "Visual",
+            "topics": [
+                "Leadership Skills",
+                "Psychology",
+                "Philosophy",
+                "Data Analytics"
+            ],
+            "time_available": "Afternoon",
+            "description": "Simon Sinek is a mentor who thrives with a visual learning style. With expertise in Leadership Skills, Psychology, Philosophy, and Data Analytics, Simon Sinek offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Time Management and Leadership",
+            "email": "simon.sinek@example.com"
+        },
+        {
+            "mentor_id": 3,
+            "name": "Homi Bhabha",
+            "learning_style": "Visual",
+            "topics": [
+                "Cultural Studies",
+                "Robotics and Machine Learning",
+                "Design Principles",
+                "Fine Arts",
+                "Music and Audio"
+            ],
+            "time_available": "Morning",
+            "description": "Homi Bhabha is a mentor who thrives with a visual learning style. With expertise in Cultural Studies, Robotics and Machine Learning, Design Principles, Fine Arts, and Music and Audio, Homi Bhabha offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Machine Learning and Data Science",
+            "email": "homi.bhabha@example.com"
+        },
+        {
+            "mentor_id": 4,
+            "name": "Bren\u00e9 Brown",
+            "learning_style": "Auditory",
+            "topics": [
+                "Leadership Skills",
+                "Artificial Intelligence and Machine Learning",
+                "Data Science",
+                "Philosophy",
+                "Finance and Investment"
+            ],
+            "time_available": "Evening",
+            "description": "Bren\u00e9 Brown is a mentor who thrives with a auditory learning style. With expertise in Leadership Skills, Artificial Intelligence and Machine Learning, Data Science, Philosophy, and Finance and Investment, Bren\u00e9 Brown offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "bren\u00e9.brown@example.com"
+        },
+        {
+            "mentor_id": 5,
+            "name": "Ai Weiwei",
+            "learning_style": "Visual",
+            "topics": [
+                "Fine Arts",
+                "Cybersecurity"
+            ],
+            "time_available": "Afternoon",
+            "description": "Ai Weiwei is a mentor who thrives with a visual learning style. With expertise in Fine Arts, and Cybersecurity, Ai Weiwei offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "ai.weiwei@example.com"
+        },
+        {
+            "mentor_id": 6,
+            "name": "Kwame Anthony Appiah",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Psychology",
+                "Cultural Studies",
+                "Physics"
+            ],
+            "time_available": "Evening",
+            "description": "Kwame Anthony Appiah is a mentor who thrives with a kinesthetic learning style. With expertise in Psychology, Cultural Studies, and Physics, Kwame Anthony Appiah offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "kwame.anthony.appiah@example.com"
+        },
+        {
+            "mentor_id": 7,
+            "name": "Brian Greene",
+            "learning_style": "Visual",
+            "topics": [
+                "Physics",
+                "Design Principles",
+                "Arts and Creativity",
+                "Project Management",
+                "Music and Audio"
+            ],
+            "time_available": "Evening",
+            "description": "Brian Greene is a mentor who thrives with a visual learning style. With expertise in Physics, Design Principles, Arts and Creativity, Project Management, and Music and Audio, Brian Greene offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "brian.greene@example.com"
+        },
+        {
+            "mentor_id": 8,
+            "name": "Tom DeMarco",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Project Management",
+                "Business and Management"
+            ],
+            "time_available": "Afternoon",
+            "description": "Tom DeMarco is a mentor who thrives with a kinesthetic learning style. With expertise in Project Management, and Business and Management, Tom DeMarco offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "tom.demarco@example.com"
+        },
+        {
+            "mentor_id": 9,
+            "name": "Warren Buffett",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Finance and Investment",
+                "Philosophy"
+            ],
+            "time_available": "Afternoon",
+            "description": "Warren Buffett is a mentor who thrives with a kinesthetic learning style. With expertise in Finance and Investment, and Philosophy, Warren Buffett offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "warren.buffett@example.com"
+        },
+        {
+            "mentor_id": 10,
+            "name": "Jeff Koons",
+            "learning_style": "Visual",
+            "topics": [
+                "Fine Arts",
+                "Economics",
+                "Health and Wellness"
+            ],
+            "time_available": "Evening",
+            "description": "Jeff Koons is a mentor who thrives with a visual learning style. With expertise in Fine Arts, Economics, and Health and Wellness, Jeff Koons offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "jeff.koons@example.com"
+        },
+        {
+            "mentor_id": 11,
+            "name": "Jane Goodall",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Environmental Science",
+                "Health and Wellness",
+                "Engineering",
+                "Business and Management",
+                "Fine Arts"
+            ],
+            "time_available": "Morning",
+            "description": "Jane Goodall is a mentor who thrives with a kinesthetic learning style. With expertise in Environmental Science, Health and Wellness, Engineering, Business and Management, and Fine Arts, Jane Goodall offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "jane.goodall@example.com"
+        },
+        {
+            "mentor_id": 12,
+            "name": "Martha Nussbaum",
+            "learning_style": "Auditory",
+            "topics": [
+                "Philosophy",
+                "Sports Science",
+                "Design Principles",
+                "Environmental Science",
+                "Fine Arts"
+            ],
+            "time_available": "Evening",
+            "description": "Martha Nussbaum is a mentor who thrives with a auditory learning style. With expertise in Philosophy, Sports Science, Design Principles, Environmental Science, and Fine Arts, Martha Nussbaum offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "martha.nussbaum@example.com"
+        },
+        {
+            "mentor_id": 13,
+            "name": "Hans Zimmer",
+            "learning_style": "Auditory",
+            "topics": [
+                "Psychology",
+                "Cultural Studies",
+                "Music and Audio"
+            ],
+            "time_available": "Afternoon",
+            "description": "Hans Zimmer is a mentor who thrives with a auditory learning style. With expertise in Psychology, Cultural Studies, and Music and Audio, Hans Zimmer offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "hans.zimmer@example.com"
+        },
+        {
+            "mentor_id": 14,
+            "name": "Elon Musk",
+            "learning_style": "Visual",
+            "topics": [
+                "Engineering",
+                "Arts and Creativity",
+                "Finance and Investment"
+            ],
+            "time_available": "Evening",
+            "description": "Elon Musk is a mentor who thrives with a visual learning style. With expertise in Engineering, Arts and Creativity, and Finance and Investment, Elon Musk offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "elon.musk@example.com"
+        },
+        {
+            "mentor_id": 15,
+            "name": "Sundar Pichai",
+            "learning_style": "Auditory",
+            "topics": [
+                "Technology Innovations",
+                "Engineering"
+            ],
+            "time_available": "Evening",
+            "description": "Sundar Pichai is a mentor who thrives with a auditory learning style. With expertise in Technology Innovations, and Engineering, Sundar Pichai offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "sundar.pichai@example.com"
+        },
+        {
+            "mentor_id": 16,
+            "name": "Rodney Brooks",
+            "learning_style": "Visual",
+            "topics": [
+                "Robotics and Machine Learning",
+                "Technology Innovations"
+            ],
+            "time_available": "Morning",
+            "description": "Rodney Brooks is a mentor who thrives with a visual learning style. With expertise in Robotics and Machine Learning, and Technology Innovations, Rodney Brooks offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "rodney.brooks@example.com"
+        },
+        {
+            "mentor_id": 17,
+            "name": "Lisa Randall",
+            "learning_style": "Visual",
+            "topics": [
+                "Physics",
+                "Personal Development"
+            ],
+            "time_available": "Evening",
+            "description": "Lisa Randall is a mentor who thrives with a visual learning style. With expertise in Physics, and Personal Development, Lisa Randall offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "lisa.randall@example.com"
+        },
+        {
+            "mentor_id": 18,
+            "name": "Peter Singer",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Philosophy",
+                "Psychology",
+                "Sports Science",
+                "Project Management"
+            ],
+            "time_available": "Afternoon",
+            "description": "Peter Singer is a mentor who thrives with a kinesthetic learning style. With expertise in Philosophy, Psychology, Sports Science, and Project Management, Peter Singer offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "peter.singer@example.com"
+        },
+        {
+            "mentor_id": 19,
+            "name": "Satya Nadella",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Psychology",
+                "Arts and Creativity",
+                "Mathematics",
+                "Technology Innovations"
+            ],
+            "time_available": "Afternoon",
+            "description": "Satya Nadella is a mentor who thrives with a kinesthetic learning style. With expertise in Psychology, Arts and Creativity, Mathematics, and Technology Innovations, Satya Nadella offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "satya.nadella@example.com"
+        },
+        {
+            "mentor_id": 20,
+            "name": "Guido van Rossum",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Programming",
+                "Finance and Investment"
+            ],
+            "time_available": "Morning",
+            "description": "Guido van Rossum is a mentor who thrives with a kinesthetic learning style. With expertise in Programming, and Finance and Investment, Guido van Rossum offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "guido.van.rossum@example.com"
+        },
+        {
+            "mentor_id": 21,
+            "name": "Mikko Hypponen",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Cybersecurity",
+                "Economics",
+                "Physics"
+            ],
+            "time_available": "Morning",
+            "description": "Mikko Hypponen is a mentor who thrives with a kinesthetic learning style. With expertise in Cybersecurity, Economics, and Physics, Mikko Hypponen offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mikko.hypponen@example.com"
+        },
+        {
+            "mentor_id": 22,
+            "name": "Don Norman",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Design Principles",
+                "Fine Arts"
+            ],
+            "time_available": "Evening",
+            "description": "Don Norman is a mentor who thrives with a kinesthetic learning style. With expertise in Design Principles, and Fine Arts, Don Norman offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "don.norman@example.com"
+        },
+        {
+            "mentor_id": 23,
+            "name": "Ray Dalio",
+            "learning_style": "Auditory",
+            "topics": [
+                "Finance and Investment",
+                "Cultural Studies",
+                "Engineering",
+                "Technology Innovations"
+            ],
+            "time_available": "Evening",
+            "description": "Ray Dalio is a mentor who thrives with a auditory learning style. With expertise in Finance and Investment, Cultural Studies, Engineering, and Technology Innovations, Ray Dalio offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "ray.dalio@example.com"
+        },
+        {
+            "mentor_id": 24,
+            "name": "DJ Patil",
+            "learning_style": "Visual",
+            "topics": [
+                "Cultural Studies",
+                "Technology Innovations",
+                "Personal Development",
+                "Data Science"
+            ],
+            "time_available": "Morning",
+            "description": "DJ Patil is a mentor who thrives with a visual learning style. With expertise in Cultural Studies, Technology Innovations, Personal Development, and Data Science, DJ Patil offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "dj.patil@example.com"
+        },
+        {
+            "mentor_id": 25,
+            "name": "Mentor 25",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Cybersecurity",
+                "Technology Innovations",
+                "Finance and Investment",
+                "Physics"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 25 is a mentor who thrives with a kinesthetic learning style. With expertise in Cybersecurity, Technology Innovations, Finance and Investment, and Physics, Mentor 25 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.25@example.com"
+        },
+        {
+            "mentor_id": 26,
+            "name": "Chris Anderson (TED)",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Public Speaking",
+                "Data Science"
+            ],
+            "time_available": "Afternoon",
+            "description": "Chris Anderson (TED) is a mentor who thrives with a kinesthetic learning style. With expertise in Public Speaking, and Data Science, Chris Anderson (TED) offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "chris.anderson.ted@example.com"
+        },
+        {
+            "mentor_id": 27,
+            "name": "Linus Torvalds",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Programming",
+                "Robotics and Machine Learning",
+                "Engineering",
+                "Design Principles"
+            ],
+            "time_available": "Afternoon",
+            "description": "Linus Torvalds is a mentor who thrives with a kinesthetic learning style. With expertise in Programming, Robotics and Machine Learning, Engineering, and Design Principles, Linus Torvalds offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "linus.torvalds@example.com"
+        },
+        {
+            "mentor_id": 28,
+            "name": "Jeff Bezos",
+            "learning_style": "Visual",
+            "topics": [
+                "Business and Management",
+                "Personal Development"
+            ],
+            "time_available": "Morning",
+            "description": "Jeff Bezos is a mentor who thrives with a visual learning style. With expertise in Business and Management, and Personal Development, Jeff Bezos offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "jeff.bezos@example.com"
+        },
+        {
+            "mentor_id": 29,
+            "name": "Hilary Mason",
+            "learning_style": "Auditory",
+            "topics": [
+                "Data Science",
+                "Robotics and Machine Learning"
+            ],
+            "time_available": "Afternoon",
+            "description": "Hilary Mason is a mentor who thrives with a auditory learning style. With expertise in Data Science, and Robotics and Machine Learning, Hilary Mason offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "hilary.mason@example.com"
+        },
+        {
+            "mentor_id": 30,
+            "name": "Mentor 30",
+            "learning_style": "Auditory",
+            "topics": [
+                "Arts and Creativity",
+                "Leadership Skills",
+                "Cybersecurity"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 30 is a mentor who thrives with a auditory learning style. With expertise in Arts and Creativity, Leadership Skills, and Cybersecurity, Mentor 30 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.30@example.com"
+        },
+        {
+            "mentor_id": 31,
+            "name": "Paul Krugman",
+            "learning_style": "Auditory",
+            "topics": [
+                "Philosophy",
+                "Economics",
+                "Data Science"
+            ],
+            "time_available": "Evening",
+            "description": "Paul Krugman is a mentor who thrives with a auditory learning style. With expertise in Philosophy, Economics, and Data Science, Paul Krugman offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "paul.krugman@example.com"
+        },
+        {
+            "mentor_id": 32,
+            "name": "Andrew Ng",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Cultural Studies",
+                "Artificial Intelligence and Machine Learning",
+                "Sports Science"
+            ],
+            "time_available": "Morning",
+            "description": "Andrew Ng is a mentor who thrives with a kinesthetic learning style. With expertise in Cultural Studies, Artificial Intelligence and Machine Learning, and Sports Science, Andrew Ng offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "andrew.ng@example.com"
+        },
+        {
+            "mentor_id": 33,
+            "name": "Deepak Chopra",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Health and Wellness",
+                "Physics",
+                "Leadership Skills",
+                "Data Science"
+            ],
+            "time_available": "Afternoon",
+            "description": "Deepak Chopra is a mentor who thrives with a kinesthetic learning style. With expertise in Health and Wellness, Physics, Leadership Skills, and Data Science, Deepak Chopra offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "deepak.chopra@example.com"
+        },
+        {
+            "mentor_id": 34,
+            "name": "Quincy Jones",
+            "learning_style": "Visual",
+            "topics": [
+                "Philosophy",
+                "Music and Audio",
+                "Environmental Science"
+            ],
+            "time_available": "Afternoon",
+            "description": "Quincy Jones is a mentor who thrives with a visual learning style. With expertise in Philosophy, Music and Audio, and Environmental Science, Quincy Jones offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "quincy.jones@example.com"
+        },
+        {
+            "mentor_id": 35,
+            "name": "Mentor 35",
+            "learning_style": "Auditory",
+            "topics": [
+                "Fine Arts",
+                "Mathematics",
+                "Data Science"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 35 is a mentor who thrives with a auditory learning style. With expertise in Fine Arts, Mathematics, and Data Science, Mentor 35 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.35@example.com"
+        },
+        {
+            "mentor_id": 36,
+            "name": "Sheryl Sandberg",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Personal Development",
+                "Business and Management",
+                "Environmental Science",
+                "Engineering",
+                "Music and Audio"
+            ],
+            "time_available": "Afternoon",
+            "description": "Sheryl Sandberg is a mentor who thrives with a kinesthetic learning style. With expertise in Personal Development, Business and Management, Environmental Science, Engineering, and Music and Audio, Sheryl Sandberg offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "sheryl.sandberg@example.com"
+        },
+        {
+            "mentor_id": 37,
+            "name": "Scott Berkun",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Project Management",
+                "Environmental Science"
+            ],
+            "time_available": "Evening",
+            "description": "Scott Berkun is a mentor who thrives with a kinesthetic learning style. With expertise in Project Management, and Environmental Science, Scott Berkun offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "scott.berkun@example.com"
+        },
+        {
+            "mentor_id": 38,
+            "name": "Mentor 38",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Technology Innovations",
+                "Project Management",
+                "Data Science",
+                "Arts and Creativity"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 38 is a mentor who thrives with a kinesthetic learning style. With expertise in Technology Innovations, Project Management, Data Science, and Arts and Creativity, Mentor 38 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.38@example.com"
+        },
+        {
+            "mentor_id": 39,
+            "name": "Daniela Rus",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Robotics and Machine Learning",
+                "Sports Science",
+                "Public Speaking",
+                "Arts and Creativity"
+            ],
+            "time_available": "Morning",
+            "description": "Daniela Rus is a mentor who thrives with a kinesthetic learning style. With expertise in Robotics and Machine Learning, Sports Science, Public Speaking, and Arts and Creativity, Daniela Rus offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "daniela.rus@example.com"
+        },
+        {
+            "mentor_id": 40,
+            "name": "Dr. Oz",
+            "learning_style": "Auditory",
+            "topics": [
+                "Technology Innovations",
+                "Personal Development",
+                "Health and Wellness",
+                "Environmental Science"
+            ],
+            "time_available": "Morning",
+            "description": "Dr. Oz is a mentor who thrives with a auditory learning style. With expertise in Technology Innovations, Personal Development, Health and Wellness, and Environmental Science, Dr. Oz offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "dr.oz@example.com"
+        },
+        {
+            "mentor_id": 41,
+            "name": "David Suzuki",
+            "learning_style": "Auditory",
+            "topics": [
+                "Environmental Science",
+                "Psychology",
+                "Cybersecurity",
+                "Finance and Investment",
+                "Public Speaking"
+            ],
+            "time_available": "Evening",
+            "description": "David Suzuki is a mentor who thrives with a auditory learning style. With expertise in Environmental Science, Psychology, Cybersecurity, Finance and Investment, and Public Speaking, David Suzuki offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "david.suzuki@example.com"
+        },
+        {
+            "mentor_id": 42,
+            "name": "Mentor 42",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Finance and Investment",
+                "Data Analytics",
+                "Data Science"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 42 is a mentor who thrives with a kinesthetic learning style. With expertise in Finance and Investment, Data Analytics, and Data Science, Mentor 42 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.42@example.com"
+        },
+        {
+            "mentor_id": 43,
+            "name": "Joseph Stiglitz",
+            "learning_style": "Auditory",
+            "topics": [
+                "Mathematics",
+                "Philosophy",
+                "Economics"
+            ],
+            "time_available": "Afternoon",
+            "description": "Joseph Stiglitz is a mentor who thrives with a auditory learning style. With expertise in Mathematics, Philosophy, and Economics, Joseph Stiglitz offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "joseph.stiglitz@example.com"
+        },
+        {
+            "mentor_id": 44,
+            "name": "Debbie Sterling",
+            "learning_style": "Auditory",
+            "topics": [
+                "Environmental Science",
+                "Engineering",
+                "Music and Audio",
+                "Fine Arts",
+                "Physics"
+            ],
+            "time_available": "Afternoon",
+            "description": "Debbie Sterling is a mentor who thrives with a auditory learning style. With expertise in Environmental Science, Engineering, Music and Audio, Fine Arts, and Physics, Debbie Sterling offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "debbie.sterling@example.com"
+        },
+        {
+            "mentor_id": 45,
+            "name": "Mentor 45",
+            "learning_style": "Visual",
+            "topics": [
+                "Data Analytics",
+                "Finance and Investment"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 45 is a mentor who thrives with a visual learning style. With expertise in Data Analytics, and Finance and Investment, Mentor 45 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.45@example.com"
+        },
+        {
+            "mentor_id": 46,
+            "name": "Mentor 46",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Physics",
+                "Economics",
+                "Finance and Investment",
+                "Cybersecurity"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 46 is a mentor who thrives with a kinesthetic learning style. With expertise in Physics, Economics, Finance and Investment, and Cybersecurity, Mentor 46 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.46@example.com"
+        },
+        {
+            "mentor_id": 47,
+            "name": "Fei-Fei Li",
+            "learning_style": "Visual",
+            "topics": [
+                "Finance and Investment",
+                "Health and Wellness",
+                "Leadership Skills",
+                "Artificial Intelligence and Machine Learning"
+            ],
+            "time_available": "Morning",
+            "description": "Fei-Fei Li is a mentor who thrives with a visual learning style. With expertise in Finance and Investment, Health and Wellness, Leadership Skills, and Artificial Intelligence and Machine Learning, Fei-Fei Li offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "fei-fei.li@example.com"
+        },
+        {
+            "mentor_id": 48,
+            "name": "Neil Patel",
+            "learning_style": "Auditory",
+            "topics": [
+                "Mathematics",
+                "Data Analytics",
+                "Digital Marketing",
+                "Cultural Studies"
+            ],
+            "time_available": "Morning",
+            "description": "Neil Patel is a mentor who thrives with a auditory learning style. With expertise in Mathematics, Data Analytics, Digital Marketing, and Cultural Studies, Neil Patel offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "neil.patel@example.com"
+        },
+        {
+            "mentor_id": 49,
+            "name": "Rand Fishkin",
+            "learning_style": "Visual",
+            "topics": [
+                "Digital Marketing",
+                "Sports Science",
+                "Artificial Intelligence and Machine Learning"
+            ],
+            "time_available": "Morning",
+            "description": "Rand Fishkin is a mentor who thrives with a visual learning style. With expertise in Digital Marketing, Sports Science, and Artificial Intelligence and Machine Learning, Rand Fishkin offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "rand.fishkin@example.com"
+        },
+        {
+            "mentor_id": 50,
+            "name": "Yoshua Bengio",
+            "learning_style": "Auditory",
+            "topics": [
+                "Cybersecurity",
+                "Data Analytics",
+                "Artificial Intelligence and Machine Learning",
+                "Psychology"
+            ],
+            "time_available": "Morning",
+            "description": "Yoshua Bengio is a mentor who thrives with a auditory learning style. With expertise in Cybersecurity, Data Analytics, Artificial Intelligence and Machine Learning, and Psychology, Yoshua Bengio offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "yoshua.bengio@example.com"
+        },
+        {
+            "mentor_id": 51,
+            "name": "Mentor 51",
+            "learning_style": "Visual",
+            "topics": [
+                "Health and Wellness",
+                "Physics",
+                "Arts and Creativity",
+                "Data Science",
+                "Cultural Studies"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 51 is a mentor who thrives with a visual learning style. With expertise in Health and Wellness, Physics, Arts and Creativity, Data Science, and Cultural Studies, Mentor 51 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.51@example.com"
+        },
+        {
+            "mentor_id": 52,
+            "name": "Mentor 52",
+            "learning_style": "Auditory",
+            "topics": [
+                "Psychology",
+                "Finance and Investment"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 52 is a mentor who thrives with a auditory learning style. With expertise in Psychology, and Finance and Investment, Mentor 52 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.52@example.com"
+        },
+        {
+            "mentor_id": 53,
+            "name": "Brett Bartholomew",
+            "learning_style": "Auditory",
+            "topics": [
+                "Sports Science",
+                "Artificial Intelligence and Machine Learning",
+                "Technology Innovations",
+                "Fine Arts",
+                "Psychology"
+            ],
+            "time_available": "Evening",
+            "description": "Brett Bartholomew is a mentor who thrives with a auditory learning style. With expertise in Sports Science, Artificial Intelligence and Machine Learning, Technology Innovations, Fine Arts, and Psychology, Brett Bartholomew offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "brett.bartholomew@example.com"
+        },
+        {
+            "mentor_id": 54,
+            "name": "Mentor 54",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Cultural Studies",
+                "Leadership Skills",
+                "Artificial Intelligence and Machine Learning",
+                "Digital Marketing",
+                "Environmental Science"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 54 is a mentor who thrives with a kinesthetic learning style. With expertise in Cultural Studies, Leadership Skills, Artificial Intelligence and Machine Learning, Digital Marketing, and Environmental Science, Mentor 54 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.54@example.com"
+        },
+        {
+            "mentor_id": 55,
+            "name": "Mentor 55",
+            "learning_style": "Auditory",
+            "topics": [
+                "Cybersecurity",
+                "Digital Marketing",
+                "Arts and Creativity",
+                "Cultural Studies"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 55 is a mentor who thrives with a auditory learning style. With expertise in Cybersecurity, Digital Marketing, Arts and Creativity, and Cultural Studies, Mentor 55 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.55@example.com"
+        },
+        {
+            "mentor_id": 56,
+            "name": "Stuart McMillan",
+            "learning_style": "Auditory",
+            "topics": [
+                "Business and Management",
+                "Sports Science"
+            ],
+            "time_available": "Evening",
+            "description": "Stuart McMillan is a mentor who thrives with a auditory learning style. With expertise in Business and Management, and Sports Science, Stuart McMillan offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "stuart.mcmillan@example.com"
+        },
+        {
+            "mentor_id": 57,
+            "name": "Mentor 57",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Mathematics",
+                "Music and Audio"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 57 is a mentor who thrives with a kinesthetic learning style. With expertise in Mathematics, and Music and Audio, Mentor 57 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.57@example.com"
+        },
+        {
+            "mentor_id": 58,
+            "name": "Mentor 58",
+            "learning_style": "Visual",
+            "topics": [
+                "Economics",
+                "Fine Arts",
+                "Robotics and Machine Learning",
+                "Finance and Investment"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 58 is a mentor who thrives with a visual learning style. With expertise in Economics, Fine Arts, Robotics and Machine Learning, and Finance and Investment, Mentor 58 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.58@example.com"
+        },
+        {
+            "mentor_id": 59,
+            "name": "Mentor 59",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Philosophy",
+                "Engineering",
+                "Fine Arts"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 59 is a mentor who thrives with a kinesthetic learning style. With expertise in Philosophy, Engineering, and Fine Arts, Mentor 59 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.59@example.com"
+        },
+        {
+            "mentor_id": 60,
+            "name": "Nancy Duarte",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Cultural Studies",
+                "Project Management",
+                "Technology Innovations",
+                "Public Speaking",
+                "Economics"
+            ],
+            "time_available": "Morning",
+            "description": "Nancy Duarte is a mentor who thrives with a kinesthetic learning style. With expertise in Cultural Studies, Project Management, Technology Innovations, Public Speaking, and Economics, Nancy Duarte offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "nancy.duarte@example.com"
+        },
+        {
+            "mentor_id": 61,
+            "name": "Mentor 61",
+            "learning_style": "Auditory",
+            "topics": [
+                "Economics",
+                "Finance and Investment",
+                "Mathematics",
+                "Artificial Intelligence and Machine Learning"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 61 is a mentor who thrives with a auditory learning style. With expertise in Economics, Finance and Investment, Mathematics, and Artificial Intelligence and Machine Learning, Mentor 61 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.61@example.com"
+        },
+        {
+            "mentor_id": 62,
+            "name": "Mentor 62",
+            "learning_style": "Auditory",
+            "topics": [
+                "Robotics and Machine Learning",
+                "Digital Marketing",
+                "Music and Audio"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 62 is a mentor who thrives with a auditory learning style. With expertise in Robotics and Machine Learning, Digital Marketing, and Music and Audio, Mentor 62 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.62@example.com"
+        },
+        {
+            "mentor_id": 63,
+            "name": "Mentor 63",
+            "learning_style": "Auditory",
+            "topics": [
+                "Leadership Skills",
+                "Programming",
+                "Cybersecurity"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 63 is a mentor who thrives with a auditory learning style. With expertise in Leadership Skills, Programming, and Cybersecurity, Mentor 63 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.63@example.com"
+        },
+        {
+            "mentor_id": 64,
+            "name": "Mentor 64",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Business and Management",
+                "Economics",
+                "Cultural Studies",
+                "Sports Science",
+                "Finance and Investment"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 64 is a mentor who thrives with a kinesthetic learning style. With expertise in Business and Management, Economics, Cultural Studies, Sports Science, and Finance and Investment, Mentor 64 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.64@example.com"
+        },
+        {
+            "mentor_id": 65,
+            "name": "Mentor 65",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Physics",
+                "Environmental Science",
+                "Cultural Studies",
+                "Data Science"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 65 is a mentor who thrives with a kinesthetic learning style. With expertise in Physics, Environmental Science, Cultural Studies, and Data Science, Mentor 65 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.65@example.com"
+        },
+        {
+            "mentor_id": 66,
+            "name": "Mentor 66",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Physics",
+                "Cybersecurity",
+                "Arts and Creativity",
+                "Philosophy",
+                "Programming"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 66 is a mentor who thrives with a kinesthetic learning style. With expertise in Physics, Cybersecurity, Arts and Creativity, Philosophy, and Programming, Mentor 66 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.66@example.com"
+        },
+        {
+            "mentor_id": 67,
+            "name": "Mentor 67",
+            "learning_style": "Auditory",
+            "topics": [
+                "Cultural Studies",
+                "Economics",
+                "Health and Wellness",
+                "Leadership Skills"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 67 is a mentor who thrives with a auditory learning style. With expertise in Cultural Studies, Economics, Health and Wellness, and Leadership Skills, Mentor 67 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.67@example.com"
+        },
+        {
+            "mentor_id": 68,
+            "name": "Ellen Lupton",
+            "learning_style": "Auditory",
+            "topics": [
+                "Technology Innovations",
+                "Design Principles",
+                "Digital Marketing",
+                "Fine Arts"
+            ],
+            "time_available": "Afternoon",
+            "description": "Ellen Lupton is a mentor who thrives with a auditory learning style. With expertise in Technology Innovations, Design Principles, Digital Marketing, and Fine Arts, Ellen Lupton offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "ellen.lupton@example.com"
+        },
+        {
+            "mentor_id": 69,
+            "name": "Mentor 69",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Digital Marketing",
+                "Design Principles",
+                "Physics",
+                "Arts and Creativity",
+                "Data Science"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 69 is a mentor who thrives with a kinesthetic learning style. With expertise in Digital Marketing, Design Principles, Physics, Arts and Creativity, and Data Science, Mentor 69 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.69@example.com"
+        },
+        {
+            "mentor_id": 70,
+            "name": "Mentor 70",
+            "learning_style": "Visual",
+            "topics": [
+                "Philosophy",
+                "Finance and Investment"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 70 is a mentor who thrives with a visual learning style. With expertise in Philosophy, and Finance and Investment, Mentor 70 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.70@example.com"
+        },
+        {
+            "mentor_id": 71,
+            "name": "Mentor 71",
+            "learning_style": "Auditory",
+            "topics": [
+                "Cybersecurity",
+                "Economics",
+                "Philosophy",
+                "Arts and Creativity",
+                "Leadership Skills"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 71 is a mentor who thrives with a auditory learning style. With expertise in Cybersecurity, Economics, Philosophy, Arts and Creativity, and Leadership Skills, Mentor 71 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.71@example.com"
+        },
+        {
+            "mentor_id": 72,
+            "name": "Mentor 72",
+            "learning_style": "Auditory",
+            "topics": [
+                "Music and Audio",
+                "Project Management",
+                "Data Analytics",
+                "Physics",
+                "Cybersecurity"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 72 is a mentor who thrives with a auditory learning style. With expertise in Music and Audio, Project Management, Data Analytics, Physics, and Cybersecurity, Mentor 72 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.72@example.com"
+        },
+        {
+            "mentor_id": 73,
+            "name": "Mentor 73",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Engineering",
+                "Artificial Intelligence and Machine Learning",
+                "Design Principles",
+                "Cybersecurity",
+                "Mathematics"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 73 is a mentor who thrives with a kinesthetic learning style. With expertise in Engineering, Artificial Intelligence and Machine Learning, Design Principles, Cybersecurity, and Mathematics, Mentor 73 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.73@example.com"
+        },
+        {
+            "mentor_id": 74,
+            "name": "Mentor 74",
+            "learning_style": "Visual",
+            "topics": [
+                "Finance and Investment",
+                "Robotics and Machine Learning",
+                "Sports Science",
+                "Design Principles",
+                "Philosophy"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 74 is a mentor who thrives with a visual learning style. With expertise in Finance and Investment, Robotics and Machine Learning, Sports Science, Design Principles, and Philosophy, Mentor 74 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.74@example.com"
+        },
+        {
+            "mentor_id": 75,
+            "name": "Mentor 75",
+            "learning_style": "Visual",
+            "topics": [
+                "Engineering",
+                "Digital Marketing",
+                "Public Speaking",
+                "Project Management"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 75 is a mentor who thrives with a visual learning style. With expertise in Engineering, Digital Marketing, Public Speaking, and Project Management, Mentor 75 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.75@example.com"
+        },
+        {
+            "mentor_id": 76,
+            "name": "Mentor 76",
+            "learning_style": "Auditory",
+            "topics": [
+                "Business and Management",
+                "Leadership Skills"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 76 is a mentor who thrives with a auditory learning style. With expertise in Business and Management, and Leadership Skills, Mentor 76 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.76@example.com"
+        },
+        {
+            "mentor_id": 77,
+            "name": "Mentor 77",
+            "learning_style": "Visual",
+            "topics": [
+                "Robotics and Machine Learning",
+                "Data Science",
+                "Artificial Intelligence and Machine Learning",
+                "Psychology"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 77 is a mentor who thrives with a visual learning style. With expertise in Robotics and Machine Learning, Data Science, Artificial Intelligence and Machine Learning, and Psychology, Mentor 77 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.77@example.com"
+        },
+        {
+            "mentor_id": 78,
+            "name": "Mentor 78",
+            "learning_style": "Visual",
+            "topics": [
+                "Economics",
+                "Health and Wellness",
+                "Public Speaking"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 78 is a mentor who thrives with a visual learning style. With expertise in Economics, Health and Wellness, and Public Speaking, Mentor 78 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.78@example.com"
+        },
+        {
+            "mentor_id": 79,
+            "name": "Mentor 79",
+            "learning_style": "Visual",
+            "topics": [
+                "Engineering",
+                "Philosophy",
+                "Finance and Investment",
+                "Psychology"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 79 is a mentor who thrives with a visual learning style. With expertise in Engineering, Philosophy, Finance and Investment, and Psychology, Mentor 79 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.79@example.com"
+        },
+        {
+            "mentor_id": 80,
+            "name": "Mentor 80",
+            "learning_style": "Auditory",
+            "topics": [
+                "Sports Science",
+                "Environmental Science"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 80 is a mentor who thrives with a auditory learning style. With expertise in Sports Science, and Environmental Science, Mentor 80 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.80@example.com"
+        },
+        {
+            "mentor_id": 81,
+            "name": "Mentor 81",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Sports Science",
+                "Health and Wellness"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 81 is a mentor who thrives with a kinesthetic learning style. With expertise in Sports Science, and Health and Wellness, Mentor 81 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.81@example.com"
+        },
+        {
+            "mentor_id": 82,
+            "name": "Mentor 82",
+            "learning_style": "Visual",
+            "topics": [
+                "Business and Management",
+                "Finance and Investment",
+                "Cybersecurity",
+                "Project Management"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 82 is a mentor who thrives with a visual learning style. With expertise in Business and Management, Finance and Investment, Cybersecurity, and Project Management, Mentor 82 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.82@example.com"
+        },
+        {
+            "mentor_id": 83,
+            "name": "Mentor 83",
+            "learning_style": "Visual",
+            "topics": [
+                "Finance and Investment",
+                "Data Analytics",
+                "Programming"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 83 is a mentor who thrives with a visual learning style. With expertise in Finance and Investment, Data Analytics, and Programming, Mentor 83 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.83@example.com"
+        },
+        {
+            "mentor_id": 84,
+            "name": "Mentor 84",
+            "learning_style": "Auditory",
+            "topics": [
+                "Sports Science",
+                "Philosophy"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 84 is a mentor who thrives with a auditory learning style. With expertise in Sports Science, and Philosophy, Mentor 84 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.84@example.com"
+        },
+        {
+            "mentor_id": 85,
+            "name": "Mentor 85",
+            "learning_style": "Visual",
+            "topics": [
+                "Physics",
+                "Fine Arts"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 85 is a mentor who thrives with a visual learning style. With expertise in Physics, and Fine Arts, Mentor 85 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.85@example.com"
+        },
+        {
+            "mentor_id": 86,
+            "name": "Mentor 86",
+            "learning_style": "Auditory",
+            "topics": [
+                "Philosophy",
+                "Data Analytics",
+                "Economics",
+                "Psychology"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 86 is a mentor who thrives with a auditory learning style. With expertise in Philosophy, Data Analytics, Economics, and Psychology, Mentor 86 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.86@example.com"
+        },
+        {
+            "mentor_id": 87,
+            "name": "Mentor 87",
+            "learning_style": "Visual",
+            "topics": [
+                "Cybersecurity",
+                "Mathematics"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 87 is a mentor who thrives with a visual learning style. With expertise in Cybersecurity, and Mathematics, Mentor 87 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.87@example.com"
+        },
+        {
+            "mentor_id": 88,
+            "name": "Mentor 88",
+            "learning_style": "Visual",
+            "topics": [
+                "Psychology",
+                "Cultural Studies",
+                "Music and Audio"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 88 is a mentor who thrives with a visual learning style. With expertise in Psychology, Cultural Studies, and Music and Audio, Mentor 88 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.88@example.com"
+        },
+        {
+            "mentor_id": 89,
+            "name": "Mentor 89",
+            "learning_style": "Auditory",
+            "topics": [
+                "Digital Marketing",
+                "Cultural Studies"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 89 is a mentor who thrives with a auditory learning style. With expertise in Digital Marketing, and Cultural Studies, Mentor 89 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.89@example.com"
+        },
+        {
+            "mentor_id": 90,
+            "name": "Mentor 90",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Cultural Studies",
+                "Design Principles"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 90 is a mentor who thrives with a kinesthetic learning style. With expertise in Cultural Studies, and Design Principles, Mentor 90 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.90@example.com"
+        },
+        {
+            "mentor_id": 91,
+            "name": "Mentor 91",
+            "learning_style": "Auditory",
+            "topics": [
+                "Psychology",
+                "Philosophy",
+                "Business and Management",
+                "Physics"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 91 is a mentor who thrives with a auditory learning style. With expertise in Psychology, Philosophy, Business and Management, and Physics, Mentor 91 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.91@example.com"
+        },
+        {
+            "mentor_id": 92,
+            "name": "Mentor 92",
+            "learning_style": "Auditory",
+            "topics": [
+                "Sports Science",
+                "Fine Arts"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 92 is a mentor who thrives with a auditory learning style. With expertise in Sports Science, and Fine Arts, Mentor 92 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.92@example.com"
+        },
+        {
+            "mentor_id": 93,
+            "name": "Mentor 93",
+            "learning_style": "Auditory",
+            "topics": [
+                "Artificial Intelligence and Machine Learning",
+                "Environmental Science"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 93 is a mentor who thrives with a auditory learning style. With expertise in Artificial Intelligence and Machine Learning, and Environmental Science, Mentor 93 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.93@example.com"
+        },
+        {
+            "mentor_id": 94,
+            "name": "Mentor 94",
+            "learning_style": "Visual",
+            "topics": [
+                "Project Management",
+                "Mathematics"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 94 is a mentor who thrives with a visual learning style. With expertise in Project Management, and Mathematics, Mentor 94 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.94@example.com"
+        },
+        {
+            "mentor_id": 95,
+            "name": "Mentor 95",
+            "learning_style": "Visual",
+            "topics": [
+                "Engineering",
+                "Robotics and Machine Learning",
+                "Philosophy",
+                "Arts and Creativity"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 95 is a mentor who thrives with a visual learning style. With expertise in Engineering, Robotics and Machine Learning, Philosophy, and Arts and Creativity, Mentor 95 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.95@example.com"
+        },
+        {
+            "mentor_id": 96,
+            "name": "Mentor 96",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Environmental Science",
+                "Personal Development"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 96 is a mentor who thrives with a kinesthetic learning style. With expertise in Environmental Science, and Personal Development, Mentor 96 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.96@example.com"
+        },
+        {
+            "mentor_id": 97,
+            "name": "Mentor 97",
+            "learning_style": "Auditory",
+            "topics": [
+                "Programming",
+                "Data Science",
+                "Fine Arts",
+                "Sports Science",
+                "Project Management"
+            ],
+            "time_available": "Morning",
+            "description": "Mentor 97 is a mentor who thrives with a auditory learning style. With expertise in Programming, Data Science, Fine Arts, Sports Science, and Project Management, Mentor 97 offers valuable insights during the morning hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.97@example.com"
+        },
+        {
+            "mentor_id": 98,
+            "name": "Mentor 98",
+            "learning_style": "Auditory",
+            "topics": [
+                "Finance and Investment",
+                "Philosophy",
+                "Psychology",
+                "Technology Innovations",
+                "Mathematics"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 98 is a mentor who thrives with a auditory learning style. With expertise in Finance and Investment, Philosophy, Psychology, Technology Innovations, and Mathematics, Mentor 98 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.98@example.com"
+        },
+        {
+            "mentor_id": 99,
+            "name": "Mentor 99",
+            "learning_style": "Auditory",
+            "topics": [
+                "Programming",
+                "Business and Management",
+                "Digital Marketing",
+                "Engineering",
+                "Data Analytics"
+            ],
+            "time_available": "Afternoon",
+            "description": "Mentor 99 is a mentor who thrives with a auditory learning style. With expertise in Programming, Business and Management, Digital Marketing, Engineering, and Data Analytics, Mentor 99 offers valuable insights during the afternoon hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.99@example.com"
+        },
+        {
+            "mentor_id": 100,
+            "name": "Mentor 100",
+            "learning_style": "Kinesthetic",
+            "topics": [
+                "Leadership Skills",
+                "Arts and Creativity",
+                "Cultural Studies",
+                "Project Management",
+                "Mathematics"
+            ],
+            "time_available": "Evening",
+            "description": "Mentor 100 is a mentor who thrives with a kinesthetic learning style. With expertise in Leadership Skills, Arts and Creativity, Cultural Studies, Project Management, and Mathematics, Mentor 100 offers valuable insights during the evening hours. They are an excellent resource for those looking to enhance their knowledge in these areas.",
+            "specialization": "Expertise Across Multiple Domains",
+            "email": "mentor.100@example.com"
+        }
+    ]
+}

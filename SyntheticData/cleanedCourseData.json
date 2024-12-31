@@ -1,0 +1,504 @@
+{
+    "courses": [
+        {
+            "course_id": 0,
+            "title": "AI for Everyone",
+            "description": "Learn the basics of AI and its applications.",
+            "domain": "Artificial Intelligence and Machine Learning",
+            "difficulty": "Beginner",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/ai-for-everyone",
+            "modified_domain": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "course_id": 1,
+            "title": "Time Management for Leaders",
+            "description": "Master time management and productivity skills.",
+            "domain": "Personal Development",
+            "difficulty": "Intermediate",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/time-management-leadership",
+            "modified_domain": "Personal Development"
+        },
+        {
+            "course_id": 2,
+            "title": "Introduction to Machine Learning",
+            "description": "Dive into machine learning concepts and applications.",
+            "domain": "Artificial Intelligence and Machine Learning",
+            "difficulty": "Intermediate",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/machine-learning-introduction",
+            "modified_domain": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "course_id": 3,
+            "title": "Photography Basics",
+            "description": "Learn the art of capturing beautiful moments.",
+            "domain": "Creative Arts",
+            "difficulty": "Beginner",
+            "platform": "Skillshare",
+            "url": "https://www.skillshare.com/classes/photography-basics",
+            "modified_domain": "Arts and Creativity"
+        },
+        {
+            "course_id": 4,
+            "title": "Advanced Robotics",
+            "description": "Explore advanced robotics and automation.",
+            "domain": "Robotics and Machine Learning",
+            "difficulty": "Advanced",
+            "platform": "FutureLearn",
+            "url": "https://www.futurelearn.com/courses/advanced-robotics",
+            "modified_domain": "Robotics and Machine Learning"
+        },
+        {
+            "course_id": 5,
+            "title": "Creative Writing",
+            "description": "Unleash your creativity with writing techniques.",
+            "domain": "Creative Arts",
+            "difficulty": "Intermediate",
+            "platform": "MasterClass",
+            "url": "https://www.masterclass.com/classes/creative-writing",
+            "modified_domain": "Arts and Creativity"
+        },
+        {
+            "course_id": 6,
+            "title": "Cybersecurity Essentials",
+            "description": "Understand the fundamentals of cybersecurity.",
+            "domain": "Cybersecurity",
+            "difficulty": "Beginner",
+            "platform": "Pluralsight",
+            "url": "https://www.pluralsight.com/courses/cybersecurity-essentials",
+            "modified_domain": "Cybersecurity"
+        },
+        {
+            "course_id": 7,
+            "title": "Blockchain Basics",
+            "description": "Learn about blockchain technology and its applications.",
+            "domain": "Technology",
+            "difficulty": "Beginner",
+            "platform": "LinkedIn Learning",
+            "url": "https://www.linkedin.com/learning/blockchain-basics",
+            "modified_domain": "Technology Innovations"
+        },
+        {
+            "course_id": 8,
+            "title": "Sports Psychology",
+            "description": "Improve mental toughness in sports.",
+            "domain": "Sports",
+            "difficulty": "Intermediate",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/sports-psychology",
+            "modified_domain": "Sports Science"
+        },
+        {
+            "course_id": 9,
+            "title": "Entrepreneurship 101",
+            "description": "Learn how to start and manage a business.",
+            "domain": "Business",
+            "difficulty": "Beginner",
+            "platform": "Udacity",
+            "url": "https://www.udacity.com/course/entrepreneurship-101",
+            "modified_domain": "Business and Management"
+        },
+        {
+            "course_id": 10,
+            "title": "Data Science Fundamentals",
+            "description": "An introduction to data science concepts and techniques.",
+            "domain": "Data Science",
+            "difficulty": "Beginner",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/data-science-fundamentals",
+            "modified_domain": "Data Science"
+        },
+        {
+            "course_id": 11,
+            "title": "Digital Marketing Strategies",
+            "description": "Learn effective digital marketing tactics.",
+            "domain": "Marketing",
+            "difficulty": "Intermediate",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/digital-marketing-strategy",
+            "modified_domain": "Digital Marketing"
+        },
+        {
+            "course_id": 12,
+            "title": "Python Programming",
+            "description": "Get started with Python programming.",
+            "domain": "Programming",
+            "difficulty": "Beginner",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/python-programming",
+            "modified_domain": "Programming"
+        },
+        {
+            "course_id": 13,
+            "title": "Graphic Design Masterclass",
+            "description": "Master the fundamentals of graphic design.",
+            "domain": "Design",
+            "difficulty": "Intermediate",
+            "platform": "Skillshare",
+            "url": "https://www.skillshare.com/classes/graphic-design-masterclass",
+            "modified_domain": "Design Principles"
+        },
+        {
+            "course_id": 14,
+            "title": "Financial Analysis for Business",
+            "description": "Learn financial analysis techniques for business decisions.",
+            "domain": "Finance",
+            "difficulty": "Advanced",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/financial-analysis-business",
+            "modified_domain": "Finance and Investment"
+        },
+        {
+            "course_id": 15,
+            "title": "Introduction to Psychology",
+            "description": "Explore the basics of human psychology.",
+            "domain": "Psychology",
+            "difficulty": "Beginner",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/introduction-to-psychology",
+            "modified_domain": "Psychology"
+        },
+        {
+            "course_id": 16,
+            "title": "Web Development Bootcamp",
+            "description": "Become a full-stack web developer.",
+            "domain": "Programming",
+            "difficulty": "Intermediate",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/web-development-bootcamp",
+            "modified_domain": "Programming"
+        },
+        {
+            "course_id": 17,
+            "title": "Artificial Intelligence: Principles and Techniques",
+            "description": "Deep dive into AI principles and techniques.",
+            "domain": "Artificial Intelligence and Machine Learning",
+            "difficulty": "Advanced",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/ai-principles-techniques",
+            "modified_domain": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "course_id": 18,
+            "title": "Project Management Professional (PMP) Prep",
+            "description": "Prepare for the PMP certification exam.",
+            "domain": "Project Management",
+            "difficulty": "Advanced",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/pmp-prep",
+            "modified_domain": "Project Management"
+        },
+        {
+            "course_id": 19,
+            "title": "Introduction to Philosophy",
+            "description": "Explore fundamental philosophical questions.",
+            "domain": "Philosophy",
+            "difficulty": "Beginner",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/introduction-to-philosophy",
+            "modified_domain": "Philosophy"
+        },
+        {
+            "course_id": 20,
+            "title": "Mobile App Development with Flutter",
+            "description": "Build mobile apps using Flutter.",
+            "domain": "Programming",
+            "difficulty": "Intermediate",
+            "platform": "Udacity",
+            "url": "https://www.udacity.com/course/flutter-mobile-app-development",
+            "modified_domain": "Programming"
+        },
+        {
+            "course_id": 21,
+            "title": "Social Media Marketing",
+            "description": "Learn strategies for effective social media marketing.",
+            "domain": "Marketing",
+            "difficulty": "Beginner",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/social-media-marketing",
+            "modified_domain": "Digital Marketing"
+        },
+        {
+            "course_id": 22,
+            "title": "Advanced Excel for Data Analysis",
+            "description": "Master advanced Excel functions for data analysis.",
+            "domain": "Data Analysis",
+            "difficulty": "Intermediate",
+            "platform": "LinkedIn Learning",
+            "url": "https://www.linkedin.com/learning/advanced-excel-for-data-analysis",
+            "modified_domain": "Data Analytics"
+        },
+        {
+            "course_id": 23,
+            "title": "Quantum Computing Basics",
+            "description": "An introduction to the concepts of quantum computing.",
+            "domain": "Technology",
+            "difficulty": "Beginner",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/quantum-computing-basics",
+            "modified_domain": "Technology Innovations"
+        },
+        {
+            "course_id": 24,
+            "title": "Ethical Hacking",
+            "description": "Learn the basics of ethical hacking and cybersecurity.",
+            "domain": "Cybersecurity",
+            "difficulty": "Intermediate",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/ethical-hacking",
+            "modified_domain": "Cybersecurity"
+        },
+        {
+            "course_id": 25,
+            "title": "Data Visualization with Tableau",
+            "description": "Create compelling data visualizations using Tableau.",
+            "domain": "Data Science",
+            "difficulty": "Intermediate",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/data-visualization-tableau",
+            "modified_domain": "Data Science"
+        },
+        {
+            "course_id": 26,
+            "title": "Music Production with Ableton Live",
+            "description": "Learn music production and mixing techniques.",
+            "domain": "Music",
+            "difficulty": "Intermediate",
+            "platform": "Skillshare",
+            "url": "https://www.skillshare.com/classes/music-production-ableton",
+            "modified_domain": "Music and Audio"
+        },
+        {
+            "course_id": 27,
+            "title": "Fitness and Nutrition Fundamentals",
+            "description": "Learn the basics of fitness and healthy eating.",
+            "domain": "Health",
+            "difficulty": "Beginner",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/fitness-nutrition-fundamentals",
+            "modified_domain": "Health and Wellness"
+        },
+        {
+            "course_id": 28,
+            "title": "Cloud Computing with AWS",
+            "description": "Understand cloud computing concepts using AWS.",
+            "domain": "Technology",
+            "difficulty": "Intermediate",
+            "platform": "LinkedIn Learning",
+            "url": "https://www.linkedin.com/learning/cloud-computing-with-aws",
+            "modified_domain": "Technology Innovations"
+        },
+        {
+            "course_id": 29,
+            "title": "C++ Programming for Game Development",
+            "description": "Learn C++ programming with a focus on game development.",
+            "domain": "Programming",
+            "difficulty": "Advanced",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/cplusplus-game-development",
+            "modified_domain": "Programming"
+        },
+        {
+            "course_id": 30,
+            "title": "History of Modern Art",
+            "description": "Explore the evolution of modern art.",
+            "domain": "Art",
+            "difficulty": "Beginner",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/history-of-modern-art",
+            "modified_domain": "Fine Arts"
+        },
+        {
+            "course_id": 31,
+            "title": "Blockchain Development with Solidity",
+            "description": "Develop blockchain applications using Solidity.",
+            "domain": "Technology",
+            "difficulty": "Advanced",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/blockchain-solidity-development",
+            "modified_domain": "Technology Innovations"
+        },
+        {
+            "course_id": 32,
+            "title": "Effective Leadership",
+            "description": "Develop leadership skills for career growth.",
+            "domain": "Leadership",
+            "difficulty": "Intermediate",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/effective-leadership",
+            "modified_domain": "Leadership Skills"
+        },
+        {
+            "course_id": 33,
+            "title": "Statistics for Data Science",
+            "description": "Learn essential statistics concepts for data analysis.",
+            "domain": "Data Science",
+            "difficulty": "Intermediate",
+            "platform": "LinkedIn Learning",
+            "url": "https://www.linkedin.com/learning/statistics-for-data-science",
+            "modified_domain": "Data Science"
+        },
+        {
+            "course_id": 34,
+            "title": "UX/UI Design Principles",
+            "description": "Understand the fundamentals of user experience and interface design.",
+            "domain": "Design",
+            "difficulty": "Intermediate",
+            "platform": "Skillshare",
+            "url": "https://www.skillshare.com/classes/ux-ui-design-principles",
+            "modified_domain": "Design Principles"
+        },
+        {
+            "course_id": 35,
+            "title": "Physics for Engineers",
+            "description": "Apply physics concepts to engineering problems.",
+            "domain": "Physics",
+            "difficulty": "Advanced",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/physics-for-engineers",
+            "modified_domain": "Physics"
+        },
+        {
+            "course_id": 36,
+            "title": "Mobile Game Development with Unity",
+            "description": "Create mobile games using Unity.",
+            "domain": "Programming",
+            "difficulty": "Intermediate",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/unity-mobile-game-development",
+            "modified_domain": "Programming"
+        },
+        {
+            "course_id": 37,
+            "title": "Public Speaking Mastery",
+            "description": "Enhance your public speaking and presentation skills.",
+            "domain": "Communication",
+            "difficulty": "Beginner",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/public-speaking-mastery",
+            "modified_domain": "Public Speaking"
+        },
+        {
+            "course_id": 38,
+            "title": "Digital Painting Techniques",
+            "description": "Learn digital painting methods and tools.",
+            "domain": "Art",
+            "difficulty": "Intermediate",
+            "platform": "Skillshare",
+            "url": "https://www.skillshare.com/classes/digital-painting-techniques",
+            "modified_domain": "Fine Arts"
+        },
+        {
+            "course_id": 39,
+            "title": "Advanced Algebra",
+            "description": "Master advanced algebraic concepts.",
+            "domain": "Mathematics",
+            "difficulty": "Advanced",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/advanced-algebra",
+            "modified_domain": "Mathematics"
+        },
+        {
+            "course_id": 40,
+            "title": "Renewable Energy Systems",
+            "description": "Learn about renewable energy technologies.",
+            "domain": "Engineering",
+            "difficulty": "Intermediate",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/renewable-energy-systems",
+            "modified_domain": "Engineering"
+        },
+        {
+            "course_id": 41,
+            "title": "Critical Thinking and Problem Solving",
+            "description": "Develop your critical thinking and analytical skills.",
+            "domain": "Personal Development",
+            "difficulty": "Intermediate",
+            "platform": "LinkedIn Learning",
+            "url": "https://www.linkedin.com/learning/critical-thinking-problem-solving",
+            "modified_domain": "Personal Development"
+        },
+        {
+            "course_id": 42,
+            "title": "Virtual Reality Development",
+            "description": "Create virtual reality experiences.",
+            "domain": "Technology",
+            "difficulty": "Advanced",
+            "platform": "Udacity",
+            "url": "https://www.udacity.com/course/virtual-reality-development",
+            "modified_domain": "Technology Innovations"
+        },
+        {
+            "course_id": 43,
+            "title": "Machine Learning Specialization",
+            "description": "Comprehensive learning path for machine learning.",
+            "domain": "Artificial Intelligence and Machine Learning",
+            "difficulty": "Advanced",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/specializations/machine-learning",
+            "modified_domain": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "course_id": 44,
+            "title": "Environmental Science and Sustainability",
+            "description": "Explore environmental science concepts.",
+            "domain": "Science",
+            "difficulty": "Beginner",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/environmental-science-and-sustainability",
+            "modified_domain": "Environmental Science"
+        },
+        {
+            "course_id": 45,
+            "title": "Game Theory and Strategic Thinking",
+            "description": "Learn game theory for strategic decision-making.",
+            "domain": "Economics",
+            "difficulty": "Intermediate",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/game-theory-strategy",
+            "modified_domain": "Economics"
+        },
+        {
+            "course_id": 46,
+            "title": "Yoga and Meditation for Beginners",
+            "description": "Discover yoga and meditation techniques.",
+            "domain": "Health",
+            "difficulty": "Beginner",
+            "platform": "Skillshare",
+            "url": "https://www.skillshare.com/classes/yoga-meditation-beginners",
+            "modified_domain": "Health and Wellness"
+        },
+        {
+            "course_id": 47,
+            "title": "JavaScript for Web Development",
+            "description": "Learn JavaScript to create interactive web applications.",
+            "domain": "Programming",
+            "difficulty": "Beginner",
+            "platform": "Udemy",
+            "url": "https://www.udemy.com/course/javascript-web-development",
+            "modified_domain": "Programming"
+        },
+        {
+            "course_id": 48,
+            "title": "Deep Learning with TensorFlow",
+            "description": "Master deep learning techniques using TensorFlow.",
+            "domain": "Artificial Intelligence and Machine Learning",
+            "difficulty": "Advanced",
+            "platform": "Coursera",
+            "url": "https://www.coursera.org/learn/deep-learning-tensorflow",
+            "modified_domain": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "course_id": 49,
+            "title": "Cultural Anthropology",
+            "description": "Study human cultures and societies.",
+            "domain": "Anthropology",
+            "difficulty": "Beginner",
+            "platform": "edX",
+            "url": "https://www.edx.org/course/cultural-anthropology",
+            "modified_domain": "Cultural Studies"
+        }
+    ]
+}

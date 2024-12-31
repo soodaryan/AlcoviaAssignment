@@ -1,0 +1,9 @@
+streamlit
+plotly 
+matplotlib 
+
+torch
+torchvision
+torchaudio
+sentence-transformers
+scikit-learn
